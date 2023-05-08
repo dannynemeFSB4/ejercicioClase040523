@@ -1,0 +1,14 @@
+div{
+    font-style: oblique;
+    color: blue;
+}
+#selector1{
+    border-style: double;
+    border-color: black;
+}
+h1{
+    color: brown;
+}
+.colorLetra{
+   color: green;
+}
